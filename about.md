@@ -1,4 +1,4 @@
 ---
-layout: about
+layout: default
 ---
 [Home](index.md)
