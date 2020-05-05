@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 
+plugins:
+  - jemoji
+
 title: My Title
 description: My description 2
