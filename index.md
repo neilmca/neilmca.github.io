@@ -1,4 +1,5 @@
 ---
+title: Home Page Title
 description: Home Page Description
 ---
 # neilmca.github.io
